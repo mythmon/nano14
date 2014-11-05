@@ -103,13 +103,13 @@ left.right.
 
 Until it surrounds me.
 
-@ So that was  a metaphor for depression?
+@@ So that was  a metaphor for depression?
 
-& Basically. Kinda heavy handed.
+&& Basically. Kinda heavy handed.
 
-@ Meh, it's nono, nobody's expecting a masterpiece. Heck, nobody's expecting
-@ anything at all.
+@@ Meh, it's nono, nobody's expecting a masterpiece. Heck, nobody's expecting
+@@ anything at all.
 
-& Thanks. :)
+&& Thanks. :)
 
-@ No problem :P
+@@ No problem :P
