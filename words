@@ -1,0 +1,4 @@
+REAL=`cat *.ch | grep -v @@ | grep -v \&\& | wc -w`
+TOTAL=`cat *.ch | wc -w`
+
+echo Real wc for [ *.ch ] is $REAL, total wc for [ *.ch ] is $TOTAL
