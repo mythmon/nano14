@@ -1,4 +1,4 @@
-REAL=`cat *.ch | grep -v @@ | grep -v \&\& | wc -w`
-TOTAL=`cat *.ch | wc -w`
+REAL=`cat *.txt | grep -v @@ | grep -v \&\& | wc -w`
+TOTAL=`cat *.txt | wc -w`
 
-echo Real wc for [ *.ch ] is $REAL, total wc for [ *.ch ] is $TOTAL
+echo Real wc for [ *.txt ] is $REAL, total wc for [ *.txt ] is $TOTAL
