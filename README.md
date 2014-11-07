@@ -1,26 +1,28 @@
 NANO'14
 =======
 
+This is my [NaNoWriMo](http://nanowrimo.org) for November 2014.
+
 ![Word Count Badge](http://nanowrimo-badge.herokuapp.com/ElijahCaine/nano14.svg)
 
 This is Elijah Caine's NaNoWriMo attempt for the year 2014
 ----------------------------------------------------------
 
 If you want to send him feedback he can be reached on irc.freenode.net under
-the nick <pop`> or make an issue on this repo.
+the nick <pop`> or make an issue on this repo. I will not accept syntax feedback.
 
 Milestones
 ----------
 
-10,000 words __-__-____
+10,000 words **-**-**
 
-20,000 words __-__-____
+20,000 words **-**-**
 
-30,000 words __-__-____
+30,000 words **-**-**
 
-40,000 words __-__-____
+40,000 words **-**-** 
 
-50,000 words __-__-____
+50,000 words **-**-**
 
 A few notes
 -----------
